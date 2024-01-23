@@ -8,8 +8,8 @@
 
 ## Deployment
 
-- `npm run deploy`
+- Deployment is handled by [Vercel](https://vercel.com/)
 
 ## Live URL
 
-[Portfolio Website](https://rethora.github.io/portfolio-v2/)
+[Portfolio Website](https://portfolio-v2-eight-phi.vercel.app/)
