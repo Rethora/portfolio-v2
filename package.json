@@ -8,7 +8,7 @@
     "build": "next build",
     "start": "next start",
     "fmt": "pnpm rome check . --apply-unsafe && pnpm rome format . --write",
-    "predeploy": "pnpm build",
+    "predeploy": "npm --no-install run build",
     "deploy": "gh-pages -d build"
   },
   "dependencies": {
